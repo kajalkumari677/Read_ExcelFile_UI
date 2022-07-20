@@ -1,2 +1,2 @@
 # Read_ExcelFile_UI
-Import Excel file in UI and save it at a particular loaction
+Import Excel file in UI and store it into the local storage
